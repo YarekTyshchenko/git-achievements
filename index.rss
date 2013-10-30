@@ -2,6 +2,7 @@
 <title>Yarek Tyshchenko's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Banker (Level 4)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Apprentice Archivist (Level 1)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
 <item><title>Product Manager (Level 6)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Master Miller (Level 7)</title><description>Add only part of a file to the stage 199 times with git add -p.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Merchant (Level 4)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Apprentice Presenter (Level 2)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
 <item><title>Miller (Level 6)</title><description>Add only part of a file to the stage 87 times with git add -p.</description></item>
-<item><title>Blacksmith (Level 4)</title><description>Created a branch using git checkout -b.</description></item>
 </channel></rss>
